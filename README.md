@@ -1,4 +1,4 @@
-# ML-python-sklearn-svm-cpu-training
+# ML-python-lightgbm-cpu-training
 
 
 Quickstart project for executing an Iris classifier using the LightGBM framework on a CPU.
